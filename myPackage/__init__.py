@@ -1,1 +1,1 @@
-import somePython
+from . import somePython
